@@ -11,7 +11,6 @@
 </head>
 
 <body>
-  <div style="height: 50vw; width: 50vw;">
   <svg style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" viewBox="0 0 500 500">
 <defs>
 <path d="M255+45L455+245L255+445L55+245L255+45Z" id="Mask"/>
@@ -83,7 +82,6 @@
 <path d="M145.002+240.136C145.002+240.136+173.536+209.151+230.78+239.086C230.78+239.086+191.392+215.803+145.002+240.136Z" opacity="1" fill="#000000"/>
 </g>
 </svg>
-</div>
 
 </body>
 </html>
